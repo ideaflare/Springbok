@@ -1,8 +1,5 @@
 #load "springbok.fs"
 open System
-open springbok
-
-// Define your library scripting code here
 
 #r "../../packages/FSharp.Data/lib/net45/FSharp.Data.dll"
 open FSharp.Data
